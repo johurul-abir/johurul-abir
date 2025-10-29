@@ -45,7 +45,6 @@ With 6+ years of experience in both **teaching** and **developing software**, I 
 ### 🌐 Others
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&style=flat-square)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&style=flat-square)
 
 ---
