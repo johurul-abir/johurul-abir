@@ -26,6 +26,7 @@ With 6+ years of experience in both **teaching** and **developing software**, I 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat-square)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=flat-square)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
