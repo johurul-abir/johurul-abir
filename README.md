@@ -1,97 +1,141 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E6CFF&height=200&section=header&text=Hi%20There,%20I'm%20Johurul%20Islam!👋&fontSize=32&fontColor=ffffff&fontAlignY=40" alt="Johurul Islam Header Banner" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Full-Stack+MERN+Developer;NestJS+%2B+PostgreSQL+Enthusiast;WordPress+Expert;Lifelong+Learner" alt="Typing SVG" />
-</p>
-
-***
-
-## 🙋‍♂️ About Me
-
-I'm **Johurul Islam**, a passionate Full-Stack Web Developer from **Bangladesh** 🇧🇩.
-With **6+ years** of experience in both **teaching** and **developing software**, I focus on building scalable, user-friendly web applications.
-
-- 🔭 **Currently working on:** A **Doctor Appointment SaaS Platform**
-- 💬 **Ask me about:** React, Node.js, NestJS, MongoDB, PostgreSQL, Prisma, WordPress
-- 🌱 **Learning:** Nest.js Advanced Patterns, Clean Architecture, Microservices
-- 🧑‍🏫 **Role:** Physics & ICT Educator
-- ⚡ **Fun fact:** I love simplifying complex problems into creative web solutions!
-
-***
-
-## 🚀 Tech Stack
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Johurul%20Islam&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Educator&descSize=20&descAlignY=55" alt="Header" />
+</div>
 
 <div align="center">
   
-### 🖼️ Frontend
-  
-  <p>
-    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
-    <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js" />
-    <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=flat-square" alt="Redux" />
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
-  </p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;MERN+Stack+%7C+NestJS+%7C+PostgreSQL;6%2B+Years+of+Teaching+%26+Development;Turning+Ideas+into+Digital+Reality+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-### 🛠️ Backend & Database
-  
-  <p>
-    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
-    <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square" alt="NestJS" />
-    <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&style=flat-square" alt="Express.js" />
-    <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&style=flat-square" alt="Prisma" />
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat-square" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&style=flat-square" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/-MySQL-00758F?logo=mysql&style=flat-square" alt="MySQL" />
-  </p>
-
-### 🌐 Tools & CMS
-  
-  <p>
-    <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&style=flat-square" alt="WordPress" />
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&style=flat-square" alt="Firebase" />
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&style=flat-square" alt="Figma" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white&style=flat-square" alt="Git" />
-  </p>
 </div>
 
-***
+---
 
-## 📈 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johurul-abir&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Johurul's GitHub Stats" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johurul-abir&theme=radical&hide_border=true" alt="Johurul's GitHub Streak" height="175" />
-</p>
+```typescript
+const johurul = {
+    location: "Dhaka, Bangladesh 🇧🇩",
+    role: "Full-Stack Web Developer & Physics/ICT Educator",
+    experience: "6+ years",
+    currentFocus: "Doctor Appointment SaaS Platform",
+    
+    learning: [
+        "NestJS Advanced Patterns",
+        "Microservices Architecture",
+        "Clean Code Principles"
+    ],
+    
+    passions: [
+        "Building user-centric applications",
+        "Teaching & mentoring",
+        "Solving complex problems creatively"
+    ],
+    
+    lifePhilosophy: "Simplicity is the ultimate sophistication"
+};
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johurul-abir&color=0E6CFF" alt="Profile views" />
-</p>
+---
 
-***
+## 🛠️ Tech Arsenal
 
-## 📫 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/johurul-abir" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/johurul.abir" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=for-the-badge" alt="Facebook" />
-  </a>
-  <a href="https://webxperthub.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-0E6CFF?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="mailto:johurulabir@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&style=for-the-badge" alt="Email" />
-  </a>
-</p>
+### Frontend Magic ✨
 
-***
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### Backend Power ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E6CFF&height=120&section=footer" alt="Footer Wave"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Database & Tools 🗄️
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=johurul-abir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=johurul-abir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johurul-abir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johurul-abir&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+---
+
+## 🎯 Current Projects & Goals
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏥 Doctor Appointment Platform</h3>
+      <p>Building a comprehensive SaaS solution with real-time booking, payment integration, and patient management</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📚 Continuous Learning</h3>
+      <p>Mastering microservices architecture and exploring cloud-native development patterns</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johurul-abir)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/johurul.abir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webxperthub.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johurulabir@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=johurul-abir&color=3B82F6&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" alt="Footer" />
+</div>
+
+<div align="center">
+  <sub>⭐️ From <a href="https://github.com/johurul-abir">johurul-abir</a> with ❤️</sub>
+</div>
