@@ -15,14 +15,21 @@
 ```typescript
 const johurul = {
     location: "Dhaka, Bangladesh 🇧🇩",
-    role: "Full-Stack Web Developer & Physics/ICT Educator",
+    role: "Full-Stack JavaScript Developer & DevOps Engineer",
     experience: "6+ years",
-    currentFocus: "Doctor Appointment SaaS Platform",
+    someCompleteProjects: [
+      "Doctor Appointment System",
+      "School Management System",
+      "Utility Management System",
+      "Inventory Management System",
+      "E-Commerce", "Leagelization Office Management System"
+],
     
     learning: [
         "NestJS Advanced Patterns",
         "Microservices Architecture",
         "Clean Code Principles"
+        "DevOps"
     ],
     
     passions: [
@@ -132,9 +139,9 @@ const johurul = {
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" alt="Footer" />
-</div>
+</div> -->
 
 <div align="center">
   <sub>⭐️ From <a href="https://github.com/johurul-abir">johurul-abir</a> with ❤️</sub>
