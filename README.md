@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;MERN+Stack+%7C+NestJS+%7C+PostgreSQL;6%2B+Years+of+Teaching+%26+Development;Turning+Ideas+into+Digital+Reality+%F0%9F%92%A1)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;MERN+Stack+%7C+NestJS+%7C+PostgreSQL;5%2B+Years+of+Teaching+%26+Development;Turning+Ideas+into+Digital+Reality+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 const johurul = {
     location: "Dhaka, Bangladesh 🇧🇩",
     role: "Full-Stack JavaScript Developer & DevOps Engineer",
-    experience: "6+ years",
+    experience: "5+ years",
     someCompleteProjects: [
       "Doctor Appointment System",
       "School Management System",
